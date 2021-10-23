@@ -3,7 +3,7 @@ A set of Substance Designer nodes which aid the creation of Minecraft textures
 
 
 ## labpbr-publish
-Organises LabPBR materials and provides a height fade feature.
+Converts metal-rough materials to LabPBR, and provides some features such as height fading.
 ### Features:
 - EVERY option has helpful tooltips explaining what it does, and how to use certain channels
 - Automatic organisation of material channels based on LabPBR 1.3 standard
