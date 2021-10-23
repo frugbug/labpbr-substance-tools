@@ -1,9 +1,7 @@
 # labpbr-substance
-Substance Designer node which organises LabPBR materials and provides a height fade feature.
+Substance Designer node which organises LabPBR materials and provides a height fade feature. Converts metal/rough materials to the LabPBR standard used in Minecraft shaderpacks.
 
-Converts metal/rough materials to the LabPBR standard used in Minecraft shaderpacks.
-
-Features:
+## Features:
 - EVERY option has helpful tooltips explaining what it does, and how to use certain channels
 - Automatic organisation of material channels based on LabPBR 1.3 standard
 - A robust and highly customisable height fade feature, which can help to reduce artifacts from parallax occlusion mapping
