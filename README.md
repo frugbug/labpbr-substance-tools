@@ -11,7 +11,7 @@ Converts metal-rough materials to LabPBR, and provides some features such as hei
 - Multiple options for blending material f0 values based on a metalness map
 - Automatically remaps porosity, subsurface scattering and emissive maps to LabPBR ranges
 - Multiple options for opacity handling, including thresholding and dilation
-- 
+
 ## biome_tint
 Adjusts the colours of an image to compensate for Minecraft's temperature-based biome tint. Choose from built-in vanilla colormaps or use a custom one.
 
