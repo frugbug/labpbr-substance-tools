@@ -7,6 +7,7 @@ Converts metal-rough materials to LabPBR, and provides some features such as hei
 - EVERY option has helpful tooltips explaining what it does, and how to use certain channels
 - Automatic organisation of material channels based on LabPBR 1.3 standard
 - A robust and highly customisable height fade feature, which can help to reduce artifacts from parallax occlusion mapping
+- Rounded/cylindrical normals generator
 - Presets for common dielectric f0 values as well as LabPBR hardcoded metals
 - Multiple options for blending material f0 values based on a metalness map
 - Automatically remaps porosity, subsurface scattering and emissive maps to LabPBR ranges
