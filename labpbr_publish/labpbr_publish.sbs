@@ -43,7 +43,7 @@
     </dependency>
     <dependency>
       <filename v="sbs://auto_levels.sbs"/>
-      <uid v="1419653211"/>
+      <uid v="1290776861"/>
       <type v="package"/>
       <fileUID v="0"/>
       <versionUID v="0"/>
@@ -71,7 +71,7 @@
     </dependency>
     <dependency>
       <filename v="sbs://normal_combine.sbs"/>
-      <uid v="1410859903"/>
+      <uid v="1299382476"/>
       <type v="package"/>
       <fileUID v="0"/>
       <versionUID v="0"/>
@@ -2861,7 +2861,7 @@
           </connections>
           <compImplementation>
             <compInstance>
-              <path v="pkg:///auto_levels?dependency=1419653211"/>
+              <path v="pkg:///auto_levels?dependency=1290776861"/>
               <parameters/>
               <outputBridgings>
                 <outputBridging>
@@ -5644,6 +5644,13 @@
                     <constantValueFloat1 v="512"/>
                   </paramValue>
                 </parameter>
+                <parameter>
+                  <name v="combinedistance"/>
+                  <relativeTo v="0"/>
+                  <paramValue>
+                    <constantValueBool v="0"/>
+                  </paramValue>
+                </parameter>
               </parameters>
             </compFilter>
           </compImplementation>
@@ -5839,6 +5846,13 @@
                   <relativeTo v="0"/>
                   <paramValue>
                     <constantValueFloat1 v="512"/>
+                  </paramValue>
+                </parameter>
+                <parameter>
+                  <name v="combinedistance"/>
+                  <relativeTo v="0"/>
+                  <paramValue>
+                    <constantValueBool v="0"/>
                   </paramValue>
                 </parameter>
               </parameters>
@@ -6229,6 +6243,13 @@
                     <constantValueFloat1 v="512"/>
                   </paramValue>
                 </parameter>
+                <parameter>
+                  <name v="combinedistance"/>
+                  <relativeTo v="0"/>
+                  <paramValue>
+                    <constantValueBool v="0"/>
+                  </paramValue>
+                </parameter>
               </parameters>
             </compFilter>
           </compImplementation>
@@ -6273,6 +6294,13 @@
                     <constantValueFloat1 v="512"/>
                   </paramValue>
                 </parameter>
+                <parameter>
+                  <name v="combinedistance"/>
+                  <relativeTo v="0"/>
+                  <paramValue>
+                    <constantValueBool v="0"/>
+                  </paramValue>
+                </parameter>
               </parameters>
             </compFilter>
           </compImplementation>
@@ -6315,6 +6343,13 @@
                   <relativeTo v="0"/>
                   <paramValue>
                     <constantValueFloat1 v="512"/>
+                  </paramValue>
+                </parameter>
+                <parameter>
+                  <name v="combinedistance"/>
+                  <relativeTo v="0"/>
+                  <paramValue>
+                    <constantValueBool v="0"/>
                   </paramValue>
                 </parameter>
               </parameters>
@@ -6652,7 +6687,7 @@
           </connections>
           <compImplementation>
             <compInstance>
-              <path v="pkg:///normal_combine?dependency=1410859903"/>
+              <path v="pkg:///normal_combine?dependency=1299382476"/>
               <parameters>
                 <parameter>
                   <name v="blend_quality"/>
